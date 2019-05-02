@@ -78,7 +78,7 @@
 @ul[square-bullets]
 - Filternet: RIP freies Internet
 - zwanghafte Einführung veralteter Konzepte (Verlagsstruktur, Rundfunklizenz)
-- Idee: wir beliefern uns selbst - keine Vermittler nötig
+- Idee: wir beliefern uns selbst - keine Vermittler notwendig
 - Meinungsfreiheit schützen: Manipulation oder Zensur schwierig
 - Anti-Datenkraken: Schutz der Privatsphäre
 - spez. Uploadfilter: Memes, Zitatrecht, Remixes etc.
