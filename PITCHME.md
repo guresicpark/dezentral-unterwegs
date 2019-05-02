@@ -147,9 +147,9 @@
 
 ![Uploadfilter](/img/mastodon.png)
 
-- selbst hostbar, dezentrale Twitter-Alternative
+- selbst hostbare dezentrale Twitter-Alternative
 - kann beliebiger Instanz beitreten oder eine eigene betreiben
-- seit 2016 von Eugen Rochko entwickelt wird (Programmierer aus Jena)
+- wird seit 2016 von Eugen Rochko entwickelt (Programmierer aus Jena)
 
 ---
 
