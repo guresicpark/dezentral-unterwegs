@@ -195,7 +195,7 @@ Automatisierter Gateway-Server zum anonymen surfen.
 
 ### Invidious
 
-Zugriff auf YouTube über einen Anonymisierungs-Proxy
+Zugriff auf YouTube-Content über einen Anonymisierungs-Proxy
 
 ---
 
